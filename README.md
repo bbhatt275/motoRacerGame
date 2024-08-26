@@ -14,6 +14,6 @@ A simple fun 2d game
 9. Can also press Space while in game over screen to move back to title screen
 
 # Running the game 
-Java must be installed in your computer
+Java must be installed in your computer.
 Open terminal where you download the jar file and run
-java -jar motoRacer.jar
+'''java -jar motoRacer.jar'''
