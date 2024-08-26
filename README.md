@@ -16,6 +16,6 @@ A simple fun 2d game
 # Running the game 
 Java must be installed in your computer.
 Open terminal where you download the jar file and run
-'''
+```
 java -jar motoRacer.jar
-'''
+```
