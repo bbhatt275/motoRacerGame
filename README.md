@@ -19,5 +19,7 @@ Open terminal where you download the jar file and run
 ```
 java -jar motoRacer.jar
 ```
+minimum jdk version -- jdk19
+
 
 “Do not publish, redistribute, or use the game or its original assets in their original form or with minor modifications on any public platform without explicit permission.”
