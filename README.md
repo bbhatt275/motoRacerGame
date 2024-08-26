@@ -19,3 +19,5 @@ Open terminal where you download the jar file and run
 ```
 java -jar motoRacer.jar
 ```
+
+Do not publish or redistribute the game or its original assets as is (without major changes) anywhere on a public platform. 
